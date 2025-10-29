@@ -3,7 +3,7 @@ set -euo pipefail
 
 # --- CONFIG ---
 PROJECT_DIR="$HOME/backend-partA"   # where repo will be cloned
-REPO_URL="https://github.com/Festiveokagbare/hng-devops-stage2.git"
+REPO_URL="https://github.com/zacayanniran/hng13-stage2-blue-green.git"
 BRANCH="${BRANCH:-main}"            # branch to deploy
 ENV_FILE=".env"                     # copy .env.example to .env if missing
 
