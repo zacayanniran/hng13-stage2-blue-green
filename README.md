@@ -51,7 +51,7 @@ Failover occurs if the active app:
 
 🚢 Setup Instructions
 1. Clone repo
-git clone https://github.com/Festiveokagbare/hng-devops-stage2.git
+git clone https://github.com/zacayanniran/hng13-stage2-blue-green.git
 cd hng-devops-stage2
 
 2. Make scripts executable
@@ -161,7 +161,7 @@ gcloud compute ssh <instance-name> --zone <your-zone>
 
 Install Docker & Docker Compose
 
-Clone this repo (git clone https://github.com/Festiveokagbare/hng-devops-stage2.git)
+Clone this repo (git clone https://github.com/zacayanniran/hng13-stage2-blue-green.git)
 and run:
  ./deploy (To deploy using the script)
 
@@ -251,5 +251,5 @@ This implementation ensures:
 
 🙌 Author
 
-Festus Okagbare
+Zacchaeus Ayanniran
 DevOps/Cloud Engineer
